@@ -1,0 +1,1278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS2022Projects\\FlowerWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\config\\hostbuilderextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:config\\hostbuilderextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\config\\autofacmoduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:config\\autofacmoduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76779A3B-0986-484A-BDB8-925C9594099D}|..\\Service\\Service.csproj|e:\\vs2022projects\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76779A3B-0986-484A-BDB8-925C9594099D}|..\\Service\\Service.csproj|e:\\vs2022projects\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE19112D-A658-4045-881A-FCFA3DAE63D0}|..\\Interface\\Interface.csproj|e:\\vs2022projects\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\config\\resulthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:config\\resulthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76779A3B-0986-484A-BDB8-925C9594099D}|..\\Service\\Service.csproj|e:\\vs2022projects\\service\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE19112D-A658-4045-881A-FCFA3DAE63D0}|..\\Interface\\Interface.csproj|e:\\vs2022projects\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76779A3B-0986-484A-BDB8-925C9594099D}|..\\Service\\Service.csproj|e:\\vs2022projects\\service\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE19112D-A658-4045-881A-FCFA3DAE63D0}|..\\Interface\\Interface.csproj|e:\\vs2022projects\\interface\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76779A3B-0986-484A-BDB8-925C9594099D}|..\\Service\\Service.csproj|e:\\vs2022projects\\service\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE19112D-A658-4045-881A-FCFA3DAE63D0}|..\\Interface\\Interface.csproj|e:\\vs2022projects\\interface\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC011B52-1291-4088-9A3A-2E7460653821}|..\\Common\\DataAccess.csproj|e:\\vs2022projects\\common\\dbcontext\\flowercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\other\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\config\\automapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:config\\automapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\order\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC011B52-1291-4088-9A3A-2E7460653821}|..\\Common\\DataAccess.csproj|e:\\vs2022projects\\common\\migrations\\20240731134228_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS2022Projects\\Common\\Migrations\\20240731134155_seven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS2022Projects\\Common\\Migrations\\20240731133255_six.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS2022Projects\\Common\\Migrations\\20240731113657_seven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS2022Projects\\Common\\Migrations\\20240731112920_six.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS2022Projects\\Common\\Migrations\\20240731112352_five.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76779A3B-0986-484A-BDB8-925C9594099D}|..\\Service\\Service.csproj|e:\\vs2022projects\\service\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\address\\updateaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE19112D-A658-4045-881A-FCFA3DAE63D0}|..\\Interface\\Interface.csproj|e:\\vs2022projects\\interface\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\address\\deleteaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\address\\addaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\userinfo\\userres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS2022Projects\\Common\\Migrations\\20240729020834_eight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\flowerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\flowerupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\floweradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\cartitems\\cartitemres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\cartitems\\addcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\cartitems\\updatecartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76779A3B-0986-484A-BDB8-925C9594099D}|..\\Service\\Service.csproj|e:\\vs2022projects\\service\\customhsjwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE19112D-A658-4045-881A-FCFA3DAE63D0}|..\\Interface\\Interface.csproj|e:\\vs2022projects\\interface\\icustomjwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\userinfo\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\userinfo\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\userrole\\adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE19112D-A658-4045-881A-FCFA3DAE63D0}|..\\Interface\\Interface.csproj|e:\\vs2022projects\\interface\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76779A3B-0986-484A-BDB8-925C9594099D}|..\\Service\\Service.csproj|e:\\vs2022projects\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\other\\fileuploadoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76779A3B-0986-484A-BDB8-925C9594099D}|..\\Service\\Service.csproj|e:\\vs2022projects\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE19112D-A658-4045-881A-FCFA3DAE63D0}|..\\Interface\\Interface.csproj|e:\\vs2022projects\\interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|e:\\vs2022projects\\flowerwebapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93451F8-C9A5-443C-98AC-051E152AEACA}|FlowerWebAPI.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\role\\updaterole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\role\\addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\role\\roleres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE19112D-A658-4045-881A-FCFA3DAE63D0}|..\\Interface\\Interface.csproj|e:\\vs2022projects\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\category\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\dto\\category\\updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\flowercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS2022Projects\\Common\\Migrations\\20240722012018_three.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A0296-E45F-455D-B766-C8213A55C3DB}|..\\Model\\Model.csproj|e:\\vs2022projects\\model\\other\\jwttokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC011B52-1291-4088-9A3A-2E7460653821}|..\\Common\\DataAccess.csproj|e:\\vs2022projects\\common\\dbcontext\\dbcontextdesigntimefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE19112D-A658-4045-881A-FCFA3DAE63D0}|..\\Interface\\Interface.csproj|e:\\vs2022projects\\interface\\interface.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC011B52-1291-4088-9A3A-2E7460653821}|..\\Common\\DataAccess.csproj|e:\\vs2022projects\\common\\migrations\\20240801084137_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T10:31:46.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:23:08.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Cart.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Cart.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Cart.cs",
+              "RelativeToolTip": "..\\Model\\Cart.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:39:09.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\CartItem.cs",
+              "RelativeDocumentMoniker": "..\\Model\\CartItem.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\CartItem.cs",
+              "RelativeToolTip": "..\\Model\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:55:23.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Service\\CartService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\CartService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Service\\CartService.cs",
+              "RelativeToolTip": "..\\Service\\CartService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:42:05.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\UserService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Service\\UserService.cs",
+              "RelativeToolTip": "..\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:21:07.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlowerController.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "Controllers\\FlowerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:17:12.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutofacModuleRegister.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Config\\AutofacModuleRegister.cs",
+              "RelativeDocumentMoniker": "Config\\AutofacModuleRegister.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Config\\AutofacModuleRegister.cs",
+              "RelativeToolTip": "Config\\AutofacModuleRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:23:17.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HostbuilderExtend.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Config\\HostbuilderExtend.cs",
+              "RelativeDocumentMoniker": "Config\\HostbuilderExtend.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Config\\HostbuilderExtend.cs",
+              "RelativeToolTip": "Config\\HostbuilderExtend.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAhwCAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:12:00.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAIA8wEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:17:24.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\User.cs",
+              "RelativeDocumentMoniker": "..\\Model\\User.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\User.cs",
+              "RelativeToolTip": "..\\Model\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:36:18.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAuwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:16:14.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultHelper.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Config\\ResultHelper.cs",
+              "RelativeDocumentMoniker": "Config\\ResultHelper.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Config\\ResultHelper.cs",
+              "RelativeToolTip": "Config\\ResultHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:23:46.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Service\\OrdersService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\OrdersService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Service\\OrdersService.cs",
+              "RelativeToolTip": "..\\Service\\OrdersService.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAhwHUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:17:05.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\IOrderService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "..\\Interface\\IOrderService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAD4vxMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:17:20.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-03T08:07:30.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFlowerService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Interface\\IFlowerService.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\IFlowerService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Interface\\IFlowerService.cs",
+              "RelativeToolTip": "..\\Interface\\IFlowerService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIAzwBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:08:02.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\IUserService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Interface\\IUserService.cs",
+              "RelativeToolTip": "..\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAywBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:19:18.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Service\\FlowerService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\FlowerService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Service\\FlowerService.cs",
+              "RelativeToolTip": "..\\Service\\FlowerService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAawD4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:08:25.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartItemService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Service\\CartItemService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\CartItemService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Service\\CartItemService.cs",
+              "RelativeToolTip": "..\\Service\\CartItemService.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAewG8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:47:02.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICartItemService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Interface\\ICartItemService.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\ICartItemService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Interface\\ICartItemService.cs",
+              "RelativeToolTip": "..\\Interface\\ICartItemService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAASwBQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:09:14.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartItemsController.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\CartItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartItemsController.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\CartItemsController.cs",
+              "RelativeToolTip": "Controllers\\CartItemsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA+wCQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T07:19:46.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Flower.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Flower.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Flower.cs",
+              "RelativeToolTip": "..\\Model\\Flower.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:36:50.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Address.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Address.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Address.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Address.cs",
+              "RelativeToolTip": "..\\Model\\Address.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:06:11.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Other\\ApiResult.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Other\\ApiResult.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Other\\ApiResult.cs",
+              "RelativeToolTip": "..\\Model\\Other\\ApiResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAewA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:35:54.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Order.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Order.cs",
+              "RelativeToolTip": "..\\Model\\Order.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:37:02.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FlowerContext.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\DBContext\\FlowerContext.cs",
+              "RelativeDocumentMoniker": "..\\Common\\DBContext\\FlowerContext.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\DBContext\\FlowerContext.cs",
+              "RelativeToolTip": "..\\Common\\DBContext\\FlowerContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:05:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20240801084137_two.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\Migrations\\20240801084137_two.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Migrations\\20240801084137_two.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\Migrations\\20240801084137_two.cs",
+              "RelativeToolTip": "..\\Common\\Migrations\\20240801084137_two.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:41:38.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AutoMapperConfigs.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Config\\AutoMapperConfigs.cs",
+              "RelativeDocumentMoniker": "Config\\AutoMapperConfigs.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Config\\AutoMapperConfigs.cs",
+              "RelativeToolTip": "Config\\AutoMapperConfigs.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:23:31.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddOrder.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\Order\\AddOrder.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\Order\\AddOrder.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\Order\\AddOrder.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\Order\\AddOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T02:51:31.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddressController.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Controllers\\AddressController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:56:52.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240731134228_one.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\Migrations\\20240731134228_one.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Migrations\\20240731134228_one.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\Migrations\\20240731134228_one.cs",
+              "RelativeToolTip": "..\\Common\\Migrations\\20240731134228_one.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:42:29.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240731112352_five.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\Migrations\\20240731112352_five.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Migrations\\20240731112352_five.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\Migrations\\20240731112352_five.cs",
+              "RelativeToolTip": "..\\Common\\Migrations\\20240731112352_five.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:23:52.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240731112920_six.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\Migrations\\20240731112920_six.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Migrations\\20240731112920_six.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\Migrations\\20240731112920_six.cs",
+              "RelativeToolTip": "..\\Common\\Migrations\\20240731112920_six.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:29:20.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240731133255_six.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\Migrations\\20240731133255_six.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Migrations\\20240731133255_six.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\Migrations\\20240731133255_six.cs",
+              "RelativeToolTip": "..\\Common\\Migrations\\20240731133255_six.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:32:55.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240731134155_seven.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\Migrations\\20240731134155_seven.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Migrations\\20240731134155_seven.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\Migrations\\20240731134155_seven.cs",
+              "RelativeToolTip": "..\\Common\\Migrations\\20240731134155_seven.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:41:55.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240731113657_seven.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\Migrations\\20240731113657_seven.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Migrations\\20240731113657_seven.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\Migrations\\20240731113657_seven.cs",
+              "RelativeToolTip": "..\\Common\\Migrations\\20240731113657_seven.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:36:58.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateAddress.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\Address\\UpdateAddress.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\Address\\UpdateAddress.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\Address\\UpdateAddress.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\Address\\UpdateAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:27:22.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Service\\AddressService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\AddressService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Service\\AddressService.cs",
+              "RelativeToolTip": "..\\Service\\AddressService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAcwEYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:57:09.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IAddressService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Interface\\IAddressService.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\IAddressService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Interface\\IAddressService.cs",
+              "RelativeToolTip": "..\\Interface\\IAddressService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:57:32.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddAddress.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\Address\\AddAddress.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\Address\\AddAddress.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\Address\\AddAddress.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\Address\\AddAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:02:01.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeleteAddress.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\Address\\DeleteAddress.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\Address\\DeleteAddress.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\Address\\DeleteAddress.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\Address\\DeleteAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:53:36.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserRes.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\UserInfo\\UserRes.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\UserInfo\\UserRes.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\UserInfo\\UserRes.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\UserInfo\\UserRes.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:03:54.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwDMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:16:37.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "..\\Model\\TokenResponse.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\TokenResponse.cs",
+              "RelativeToolTip": "..\\Model\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:19:29.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FlowerRes.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\FlowerRes.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\FlowerRes.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\FlowerRes.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\FlowerRes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:44:50.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240729020834_eight.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\Migrations\\20240729020834_eight.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Migrations\\20240729020834_eight.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\Migrations\\20240729020834_eight.cs",
+              "RelativeToolTip": "..\\Common\\Migrations\\20240729020834_eight.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T02:08:35.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FlowerUpdate.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\FlowerUpdate.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\FlowerUpdate.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\FlowerUpdate.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\FlowerUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:18:38.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FlowerAdd.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\FlowerAdd.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\FlowerAdd.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\FlowerAdd.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\FlowerAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:34:31.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AddCartItem.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\CartItems\\AddCartItem.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\CartItems\\AddCartItem.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\CartItems\\AddCartItem.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\CartItems\\AddCartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T07:21:57.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateCartItem.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\CartItems\\UpdateCartItem.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\CartItems\\UpdateCartItem.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\CartItems\\UpdateCartItem.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\CartItems\\UpdateCartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T07:22:16.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CartItemRes.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\CartItems\\CartItemRes.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\CartItems\\CartItemRes.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\CartItems\\CartItemRes.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\CartItems\\CartItemRes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T07:22:34.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ICustomJWTService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Interface\\ICustomJWTService.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\ICustomJWTService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Interface\\ICustomJWTService.cs",
+              "RelativeToolTip": "..\\Interface\\ICustomJWTService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:55:48.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CustomHSJWTService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Service\\CustomHSJWTService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\CustomHSJWTService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Service\\CustomHSJWTService.cs",
+              "RelativeToolTip": "..\\Service\\CustomHSJWTService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAnwBwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:48:50.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAACUAAAAAAAAAAAAawDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-27T10:31:07.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Microsoft.Managed.Core.targets",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAawL4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-27T10:31:18.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddUserRole.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\UserRole\\AddUserRole.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\UserRole\\AddUserRole.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\UserRole\\AddUserRole.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\UserRole\\AddUserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:46:39.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\UserInfo\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\UserInfo\\UpdateUser.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\UserInfo\\UpdateUser.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\UserInfo\\UpdateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:39:14.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\UserInfo\\AddUser.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\UserInfo\\AddUser.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\UserInfo\\AddUser.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\UserInfo\\AddUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:39:01.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FileUploadController.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "Controllers\\FileUploadController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAwEcAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:42:54.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\CategoryService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Service\\CategoryService.cs",
+              "RelativeToolTip": "..\\Service\\CategoryService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwEcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:29:30.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Interface\\ICartService.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\ICartService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Interface\\ICartService.cs",
+              "RelativeToolTip": "..\\Interface\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:42:31.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T03:09:46.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FileUploadOptions.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Other\\FileUploadOptions.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Other\\FileUploadOptions.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Other\\FileUploadOptions.cs",
+              "RelativeToolTip": "..\\Model\\Other\\FileUploadOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:17:06.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:27:04.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Service\\RoleService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\RoleService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Service\\RoleService.cs",
+              "RelativeToolTip": "..\\Service\\RoleService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:32:48.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Interface\\IRoleService.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\IRoleService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Interface\\IRoleService.cs",
+              "RelativeToolTip": "..\\Interface\\IRoleService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:30:54.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Role.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Role.cs",
+              "RelativeToolTip": "..\\Model\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:36:28.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\UserRole.cs",
+              "RelativeDocumentMoniker": "..\\Model\\UserRole.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\UserRole.cs",
+              "RelativeToolTip": "..\\Model\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:36:38.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "E:\\VS2022Projects\\FlowerWebAPI\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAABiwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:17:00.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RoleRes.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\Role\\RoleRes.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\Role\\RoleRes.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\Role\\RoleRes.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\Role\\RoleRes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:28:02.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AddRole.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\Role\\AddRole.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\Role\\AddRole.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\Role\\AddRole.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\Role\\AddRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:28:52.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UpdateRole.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\Role\\UpdateRole.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\Role\\UpdateRole.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\Role\\UpdateRole.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\Role\\UpdateRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:29:01.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AddCategory.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\Category\\AddCategory.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\Category\\AddCategory.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\Category\\AddCategory.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\Category\\AddCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:42:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\ICategoryService.cs",
+              "ToolTip": "E:\\VS2022Projects\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "..\\Interface\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:27:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UpdateCategory.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Dto\\Category\\UpdateCategory.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Dto\\Category\\UpdateCategory.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Dto\\Category\\UpdateCategory.cs",
+              "RelativeToolTip": "..\\Model\\Dto\\Category\\UpdateCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:44:00.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "FlowerCategory.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\FlowerCategory.cs",
+              "RelativeDocumentMoniker": "..\\Model\\FlowerCategory.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\FlowerCategory.cs",
+              "RelativeToolTip": "..\\Model\\FlowerCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:37:20.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Message.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Message.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Message.cs",
+              "RelativeToolTip": "..\\Model\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:37:36.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20240722012018_three.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\Migrations\\20240722012018_three.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Migrations\\20240722012018_three.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\Migrations\\20240722012018_three.cs",
+              "RelativeToolTip": "..\\Common\\Migrations\\20240722012018_three.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:20:18.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "JWTTokenOptions.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Model\\Other\\JWTTokenOptions.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Other\\JWTTokenOptions.cs",
+              "ToolTip": "E:\\VS2022Projects\\Model\\Other\\JWTTokenOptions.cs",
+              "RelativeToolTip": "..\\Model\\Other\\JWTTokenOptions.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:34:58.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "DbContextDesignTimeFactory.cs",
+              "DocumentMoniker": "E:\\VS2022Projects\\Common\\DBContext\\DbContextDesignTimeFactory.cs",
+              "RelativeDocumentMoniker": "..\\Common\\DBContext\\DbContextDesignTimeFactory.cs",
+              "ToolTip": "E:\\VS2022Projects\\Common\\DBContext\\DbContextDesignTimeFactory.cs",
+              "RelativeToolTip": "..\\Common\\DBContext\\DbContextDesignTimeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:07:22.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Interface",
+              "DocumentMoniker": "E:\\VS2022Projects\\Interface\\Interface.csproj",
+              "RelativeDocumentMoniker": "..\\Interface\\Interface.csproj",
+              "ToolTip": "E:\\VS2022Projects\\Interface\\Interface.csproj",
+              "RelativeToolTip": "..\\Interface\\Interface.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T11:19:07.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

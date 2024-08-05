@@ -1,0 +1,15 @@
+E:\VS2022Projects\Interface\bin\Release\net8.0\Interface.deps.json
+E:\VS2022Projects\Interface\bin\Release\net8.0\Interface.dll
+E:\VS2022Projects\Interface\bin\Release\net8.0\Interface.pdb
+E:\VS2022Projects\Interface\bin\Release\net8.0\Model.dll
+E:\VS2022Projects\Interface\bin\Release\net8.0\Model.pdb
+E:\VS2022Projects\Interface\obj\Release\net8.0\Interface.csproj.AssemblyReference.cache
+E:\VS2022Projects\Interface\obj\Release\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022Projects\Interface\obj\Release\net8.0\Interface.AssemblyInfoInputs.cache
+E:\VS2022Projects\Interface\obj\Release\net8.0\Interface.AssemblyInfo.cs
+E:\VS2022Projects\Interface\obj\Release\net8.0\Interface.csproj.CoreCompileInputs.cache
+E:\VS2022Projects\Interface\obj\Release\net8.0\Interface.csproj.Up2Date
+E:\VS2022Projects\Interface\obj\Release\net8.0\Interface.dll
+E:\VS2022Projects\Interface\obj\Release\net8.0\refint\Interface.dll
+E:\VS2022Projects\Interface\obj\Release\net8.0\Interface.pdb
+E:\VS2022Projects\Interface\obj\Release\net8.0\ref\Interface.dll

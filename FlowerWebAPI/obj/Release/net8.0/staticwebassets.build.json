@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "lkTK6WNXqR/vjbInZVxTxSis1Y29rTYrOTxedVVL2Pg=",
+  "Source": "FlowerWebAPI",
+  "BasePath": "_content/FlowerWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FlowerWebAPI\\wwwroot",
+      "Source": "FlowerWebAPI",
+      "ContentRoot": "E:\\VS2022Projects\\FlowerWebAPI\\wwwroot\\",
+      "BasePath": "_content/FlowerWebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,7 @@
+
+// 定义 UserToken 类
+export default class ApiResult {
+    IsSuccess: boolean = false;
+    Result: any;
+    Message: string = "";
+  }

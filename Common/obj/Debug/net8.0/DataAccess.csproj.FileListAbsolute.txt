@@ -1,0 +1,17 @@
+E:\VS2022Projects\Common\bin\Debug\net8.0\DataAccess.deps.json
+E:\VS2022Projects\Common\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+E:\VS2022Projects\Common\bin\Debug\net8.0\DataAccess.dll
+E:\VS2022Projects\Common\bin\Debug\net8.0\DataAccess.pdb
+E:\VS2022Projects\Common\bin\Debug\net8.0\Model.dll
+E:\VS2022Projects\Common\bin\Debug\net8.0\Model.pdb
+E:\VS2022Projects\Common\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+E:\VS2022Projects\Common\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022Projects\Common\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+E:\VS2022Projects\Common\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+E:\VS2022Projects\Common\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\VS2022Projects\Common\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+E:\VS2022Projects\Common\obj\Debug\net8.0\DataAccess.dll
+E:\VS2022Projects\Common\obj\Debug\net8.0\refint\DataAccess.dll
+E:\VS2022Projects\Common\obj\Debug\net8.0\DataAccess.pdb
+E:\VS2022Projects\Common\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+E:\VS2022Projects\Common\obj\Debug\net8.0\ref\DataAccess.dll
